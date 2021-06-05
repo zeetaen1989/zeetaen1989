@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @zeetaen1989
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning HTML and CSS
-- 💞️ I’m looking to collaborate on ...
 - 📫 Reach me through calaboose_formonitrile@aleeas.com
 
 <!---

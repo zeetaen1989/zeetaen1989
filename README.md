@@ -16,5 +16,6 @@ Reach out to me on [<img src="https://github.com/zeetaen1989/zeetaen1989/blob/ma
 ![](https://img.shields.io/badge/Code-JavaScript_(ES6+)-informational?style=flat&logo=JavaScript&logoColor=f7df1e&color=20232a)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=React&logoColor=61dafb&color=20232a)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeetaen1989)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeetaen1989&show_icons=true&theme=radical)
+
 

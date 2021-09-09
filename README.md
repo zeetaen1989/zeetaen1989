@@ -2,7 +2,7 @@
 
 Hello!! I am an aspiring web developer based in Nepal 🇳🇵. Although having graduated with BSc in Computer Networking, I always had an affair with coding/programming. Having said that, I have been learning FrontEnd technologies for the past 3 months like HTML, CSS and JavaScript. I have built some web applications using these technologies which can be found in my repositories.
 
-Right now I am learning and building web applications using ReactJS front-end library.
+Right now I am learning and building web applications using React.
 
 Reach out to me on [<img src="https://github.com/zeetaen1989/zeetaen1989/blob/main/linkedin-svgrepo-com.svg" width=16>](https://www.linkedin.com/in/jitendra-kumar-gurung-92b84673/) or send me an email through [<img src="https://github.com/zeetaen1989/zeetaen1989/blob/main/gmail-svgrepo-com.svg" width=16>](mailto:zeetaen.gurung@gmail.com)
 

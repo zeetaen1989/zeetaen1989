@@ -18,8 +18,8 @@ Reach out to me on [<img src="https://github.com/zeetaen1989/zeetaen1989/blob/ma
 
 <b>GitHub Stats</b>
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeetaen1989&theme=github_dark&show_icons=true) -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeetaen1989&layout=compact&theme=github_dark" alt="top-languages-stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeetaen1989&layout=compact&theme=algolia&hide_border=true" alt="top-languages-stats"/>
 
 <b>GitHub Streaks</b>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=zeetaen1989&theme=holi-theme&date_format=M%20j%5B%2C%20Y%5D" alt="github-streaks" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=zeetaen1989&hide_border=true&theme=holi-theme&date_format=M%20j%5B%2C%20Y%5D" alt="github-streaks" />

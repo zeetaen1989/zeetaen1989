@@ -16,8 +16,10 @@ Reach out to me on [<img src="https://github.com/zeetaen1989/zeetaen1989/blob/ma
 ![](https://img.shields.io/badge/Code-JavaScript_(ES6+)-informational?style=flat&logo=JavaScript&logoColor=f7df1e&color=20232a)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=React&logoColor=61dafb&color=20232a)
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeetaen1989&show_icons=true&theme=onedark) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeetaen1989&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<b>GitHub Stats</b>
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeetaen1989&theme=github_dark&show_icons=true) -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeetaen1989&layout=compact&theme=github_dark" alt="top-languages-stats"/>
 
+<b>GitHub Streaks</b>
 
-
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=zeetaen1989&theme=holi-theme&date_format=M%20j%5B%2C%20Y%5D" alt="github-streaks" />

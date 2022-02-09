@@ -1,4 +1,4 @@
-# Aspiring Web Developer 😊
+# Web Developer 😊
 
 Hello!! I am an aspiring web developer based in Nepal 🇳🇵. Although having graduated with BSc in Computer Networking, I always had an affair with coding/programming. Having said that, I have been learning FrontEnd technologies for the past 3 months like HTML, CSS and JavaScript. I have built some web applications using these technologies which can be found in my repositories.
 

@@ -1,6 +1,6 @@
 # Web Developer 😊
 
-Hello!! I am an aspiring web developer based in Nepal 🇳🇵. Although having graduated with BSc in Computer Networking, I always had an affair with coding/programming. Having said that, I have been learning FrontEnd technologies for the past 3 months like HTML, CSS and JavaScript. I have built some web applications using these technologies which can be found in my repositories.
+A Front-End developing aficionado from 🇳🇵 with an acute detail to hone the skills as required by the project requirements. A web technology ethusiast with a modest experience of UI/UX designing proficiency and immense interest to build elegant as well as fully functioning applications.
 
 Right now I am learning and building web applications using React.
 
@@ -17,7 +17,7 @@ Reach out to me on [<img src="https://github.com/zeetaen1989/zeetaen1989/blob/ma
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=React&logoColor=61dafb&color=20232a)
 
 <b>GitHub Stats</b>
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeetaen1989&theme=github_dark&show_icons=true) -->
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeetaen1989&layout=compact&theme=algolia&hide_border=true" alt="top-languages-stats"/>
 
 <b>GitHub Streaks</b>

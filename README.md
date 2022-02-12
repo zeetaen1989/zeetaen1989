@@ -2,7 +2,7 @@
 
 A Front-End developing aficionado from 🇳🇵 with an acute detail to hone the skills as required by the project requirements. A web technology ethusiast with a modest experience of UI/UX designing proficiency and immense interest to build elegant as well as fully functioning applications.
 
-Right now I am learning and building web applications using React.
+Right now I am learning and building web applications using ReactJS and NextJS.
 
 Reach out to me on [<img src="https://github.com/zeetaen1989/zeetaen1989/blob/main/linkedin-svgrepo-com.svg" width=16>](https://www.linkedin.com/in/jitendra-kumar-gurung-92b84673/) or send me an email through [<img src="https://github.com/zeetaen1989/zeetaen1989/blob/main/gmail-svgrepo-com.svg" width=16>](mailto:zeetaen.gurung@gmail.com)
 

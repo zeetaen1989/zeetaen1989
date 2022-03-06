@@ -1,6 +1,6 @@
 # Front End Developer 😊
 
-A Front-End developing aficionado from 🇳🇵 with an acute detail to hone the skills as required by the project requirements. A web technology ethusiast with a modest experience of UI/UX designing proficiency and immense interest to build elegant as well as fully functioning applications.
+A Front-End developing aficionado from <img src="https://i.ibb.co/zGhdkV0/icons8-nepal-96.png" width=20> with an acute detail to hone the skills as required by the project requirements. A web technology ethusiast with a modest experience of UI/UX designing proficiency and immense interest to build elegant as well as fully functioning applications.
 
 Right now I am learning and building web applications using ReactJS and NextJS.
 

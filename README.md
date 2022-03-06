@@ -4,7 +4,7 @@ A Front-End developing aficionado from 🇳🇵 with an acute detail to hone the
 
 Right now I am learning and building web applications using ReactJS and NextJS.
 
-Reach out to me on [<img src="https://github.com/zeetaen1989/zeetaen1989/blob/main/linkedin-svgrepo-com.svg" width=16>](https://www.linkedin.com/in/zeetaen1878/) or send me an email through [<img src="https://github.com/zeetaen1989/zeetaen1989/blob/main/gmail-svgrepo-com.svg" width=16>](mailto:zeetaen.gurung@gmail.com)
+Reach out to me on <a href="https://www.linkedin.com/in/zeetaen1878/"><img src="https://pics.freeicons.io/uploads/icons/png/16090541531530099327-512.png" width=16></a> or send me an email through <a href="mailto:zeetaen.gurung@gmail.com"><img src="https://pics.freeicons.io/uploads/icons/png/11377518691557997002-512.png" width=16>
 
 ## Tools and Technologies
 <img src="https://pics.freeicons.io/uploads/icons/png/8804286661557996995-512.png" height=55 width=55><img src="https://pics.freeicons.io/uploads/icons/png/632690741557997006-512.png" height=55 width=55><img src="https://i.ibb.co/zrCyVd9/javascirpt.png" height=55 width=55><img src="https://pics.freeicons.io/uploads/icons/png/8575147831553750379-512.png" height=55 width=55 style="margin-right: 10rem"><img src="https://i.ibb.co/Q8wPHLJ/nextjs.png" height=50 width=80 style="margin-left: 5rem">

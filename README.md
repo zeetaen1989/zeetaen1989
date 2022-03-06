@@ -4,17 +4,19 @@ A Front-End developing aficionado from 🇳🇵 with an acute detail to hone the
 
 Right now I am learning and building web applications using ReactJS and NextJS.
 
-Reach out to me on [<img src="https://github.com/zeetaen1989/zeetaen1989/blob/main/linkedin-svgrepo-com.svg" width=16>](https://www.linkedin.com/in/jitendra-kumar-gurung-92b84673/) or send me an email through [<img src="https://github.com/zeetaen1989/zeetaen1989/blob/main/gmail-svgrepo-com.svg" width=16>](mailto:zeetaen.gurung@gmail.com)
+Reach out to me on [<img src="https://github.com/zeetaen1989/zeetaen1989/blob/main/linkedin-svgrepo-com.svg" width=16>](https://www.linkedin.com/in/zeetaen1878/) or send me an email through [<img src="https://github.com/zeetaen1989/zeetaen1989/blob/main/gmail-svgrepo-com.svg" width=16>](mailto:zeetaen.gurung@gmail.com)
 
 ## Tools and Technologies
-![](https://img.shields.io/badge/Code-Git-informational?style=flat&logo=Git&logoColor=f05032&color=20232a)
-![](https://img.shields.io/badge/Code-Github-informational?style=flat&logo=Git&logoColor=f05032&color=20232a)
-<br>
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&logoColor=e34f26&color=20232a)
-![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=CSS3&logoColor=157286&color=20232a)
-<br>
-![](https://img.shields.io/badge/Code-JavaScript_(ES6+)-informational?style=flat&logo=JavaScript&logoColor=f7df1e&color=20232a)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=React&logoColor=61dafb&color=20232a)
+<img src="https://pics.freeicons.io/uploads/icons/png/8804286661557996995-512.png" height=55 width=55><img src="https://pics.freeicons.io/uploads/icons/png/632690741557997006-512.png" height=55 width=55><img src="https://i.ibb.co/zrCyVd9/javascirpt.png" height=55 width=55><img src="https://pics.freeicons.io/uploads/icons/png/8575147831553750379-512.png" height=55 width=55 style="margin-right: 10rem"><img src="https://i.ibb.co/Q8wPHLJ/nextjs.png" height=50 width=80 style="margin-left: 5rem">
+
+
+
+<!-- <img src="https://i.ibb.co/h8yrdDK/materialui.png" height=55 width=55> -->
+
+<img src="https://i.ibb.co/NNmhw3Q/chakraui.webp" height=55 width=120><img src="https://i.ibb.co/2qqrYPX/bootstrap.png" height=55 width=55><img src="https://i.ibb.co/gyJX5rw/tailwind.png" height=55 width=55><img src="https://i.ibb.co/4YY2pSG/styled-components.png" height=55 width=55>
+
+
+<img src="https://pics.freeicons.io/uploads/icons/png/6655067911551942823-512.png" height=55 width=55><img src="https://i.ibb.co/w6SDwxZ/framer-motion.png" height=55 width=55><img src="https://i.ibb.co/Z1ydLZT/figma.png" height=55 width=55><img src="https://pics.freeicons.io/uploads/icons/png/9374299221540553610-512.png" height=55 width=55>
 
 <b>GitHub Stats</b>
 

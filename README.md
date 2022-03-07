@@ -11,9 +11,9 @@ Reach out to me on <a href="https://www.linkedin.com/in/zeetaen1878/"><img src="
 
 <!-- <img src="https://i.ibb.co/h8yrdDK/materialui.png" height=55 width=55> -->
 
-<img src="https://i.ibb.co/2qqrYPX/bootstrap.png" height=55 width=55><img src="https://i.ibb.co/gyJX5rw/tailwind.png" height=55 width=55><img src="https://i.ibb.co/NNmhw3Q/chakraui.webp" height=55 width=140>
+<img src="https://i.ibb.co/2qqrYPX/bootstrap.png" height=55 width=55><img src="https://i.ibb.co/gyJX5rw/tailwind.png" height=55 width=55><img src="https://i.ibb.co/4YY2pSG/styled-components.png" height=55 width=55><img src="https://pics.freeicons.io/uploads/icons/png/6655067911551942823-512.png" height=55 width=55><img src="https://i.ibb.co/NNmhw3Q/chakraui.webp" height=55 width=140>
 
-<img src="https://i.ibb.co/4YY2pSG/styled-components.png" height=55 width=55><img src="https://pics.freeicons.io/uploads/icons/png/6655067911551942823-512.png" height=55 width=55><img src="https://i.ibb.co/w6SDwxZ/framer-motion.png" height=55 width=55><img src="https://i.ibb.co/Z1ydLZT/figma.png" height=55 width=55><img src="https://pics.freeicons.io/uploads/icons/png/9374299221540553610-512.png" height=55 width=55>
+<img src="https://i.ibb.co/w6SDwxZ/framer-motion.png" height=55 width=55><img src="https://i.ibb.co/Z1ydLZT/figma.png" height=55 width=55><img src="https://pics.freeicons.io/uploads/icons/png/9374299221540553610-512.png" height=55 width=55>
 
 <b>GitHub Stats</b>
 

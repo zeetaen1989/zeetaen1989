@@ -9,9 +9,7 @@ Reach out to me on <a href="https://www.linkedin.com/in/zeetaen1878/"><img src="
 # Tools and Technologies
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" height=50 width=50><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" height=50 width=50><img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" height=50 width=50><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" height=55 width=55 style="margin-right: 10rem"><img src="https://i.ibb.co/Q8wPHLJ/nextjs.png" height=50 width=80 style="margin-left: 5rem">
 
-<!-- <img src="https://i.ibb.co/h8yrdDK/materialui.png" height=55 width=55> -->
-
-<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_wordmark_logo_icon_146620.png" height=55 width=55><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_tailwind_icon_130128.png" height=55 width=55><img src="https://i.ibb.co/4YY2pSG/styled-components.png" height=55 width=55><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/sass_original_logo_icon_146350.png" height=55 width=55><img src="https://i.ibb.co/NNmhw3Q/chakraui.webp" height=55 width=140>
+<img src="https://i.ibb.co/4YY2pSG/styled-components.png" height=55 width=55><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/sass_original_logo_icon_146350.png" height=55 width=55><img src="https://i.ibb.co/NNmhw3Q/chakraui.webp" height=55 width=140>
 
 <img src="https://i.ibb.co/w6SDwxZ/framer-motion.png" height=55 width=55><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/figma_logo_icon_170157.png" height=55 width=55><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" height=55 width=55>
 

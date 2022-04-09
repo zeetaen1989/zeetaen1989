@@ -1,6 +1,6 @@
 # Front End Developer 😊
 
-A Front-End developing aficionado from <img src="https://i.ibb.co/zGhdkV0/icons8-nepal-96.png" width=20> with an acute detail to hone the skills as required by the project requirements. A web technology ethusiast with a modest experience of UI/UX designing proficiency and immense interest to build elegant as well as fully functioning applications.
+A Front-End aficionado from <img src="https://i.ibb.co/zGhdkV0/icons8-nepal-96.png" width=20> with an acute detail to hone the skills as required by the project requirements. A web technology ethusiast with a modest experience of UI/UX designing proficiency and immense interest to build elegant as well as fully functioning applications.
 
 Right now I am learning and building web applications using ReactJS and NextJS.
 
@@ -29,6 +29,20 @@ Reach out to me on <a href="https://www.linkedin.com/in/zeetaen1878/"><img src="
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a> -->
 </p>
 
+## Get In Touch
+
+<p align="left">
+<a href="https://www.linkedin.com/in/zeetaen1878/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<a href="https://codepen.io/zeetaen1989" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a>
+<a href="https://www.facebook.com/zeetaen" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
+<a href="http://www.instagram.com/zeetaen" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
+<a href="https://www.twitter.com/zeetaen" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+<!-- <a href="https://www.stackoverflow.com/users/zeetaen" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
+<a href="https://www.youtube.com/c/zeetaen" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a> -->
+</p>
+
+<br />
+
 <b>GitHub Stats</b>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeetaen1989&layout=compact&theme=algolia&hide_border=true" alt="top-languages-stats"/>
@@ -36,3 +50,7 @@ Reach out to me on <a href="https://www.linkedin.com/in/zeetaen1878/"><img src="
 <b>GitHub Streaks</b>
 
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=zeetaen1989&hide_border=true&theme=holi-theme&date_format=M%20j%5B%2C%20Y%5D" alt="github-streaks" />
+
+<b>GitHub Graphs</b>
+
+<a href="http://www.github.com/zeetaen1989"><img src="https://activity-graph.herokuapp.com/graph?username=zeetaen1989&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>

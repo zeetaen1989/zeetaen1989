@@ -30,8 +30,9 @@ Reach out to me on <a href="https://www.linkedin.com/in/zeetaen1878/"><img src="
 </p>
 
 ## Get In Touch
-
+  
 <p align="left">
+<a href="https://www.jitendragurung.com.np/" target="_blank" rel="noreferrer"><img src="https://cdn.icon-icons.com/icons2/306/PNG/512/Website-Icon_33937.png" width="32" height="32" /></a> 
 <a href="https://www.linkedin.com/in/zeetaen1878/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 <a href="https://codepen.io/zeetaen1989" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a>
 <a href="https://www.facebook.com/zeetaen" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>

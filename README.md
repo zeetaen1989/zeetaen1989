@@ -1,4 +1,5 @@
-# Front End Developer 😊
+# Hi 👋 I'm Jiten Gurung
+### <em>Front End Dev || ReactJS || NextJS</em>
 
 A Front-End aficionado from <img src="https://i.ibb.co/zGhdkV0/icons8-nepal-96.png" width=20> with an acute detail to hone the skills as required by the project requirements. A web technology ethusiast with a modest experience of UI/UX designing proficiency and immense interest to build elegant as well as fully functioning applications.
 

@@ -54,6 +54,6 @@ Reach out to me on <a href="https://www.linkedin.com/in/zeetaen1878/"><img src="
 
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=zeetaen1989&hide_border=true&theme=holi-theme&date_format=M%20j%5B%2C%20Y%5D" alt="github-streaks" />
 
-<b>GitHub Graphs</b>
+<!-- <b>GitHub Graphs</b>
 
-<a href="http://www.github.com/zeetaen1989"><img src="https://activity-graph.herokuapp.com/graph?username=zeetaen1989&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/zeetaen1989"><img src="https://activity-graph.herokuapp.com/graph?username=zeetaen1989&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->

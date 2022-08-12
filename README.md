@@ -5,8 +5,6 @@ A Front-End aficionado from <img src="https://i.ibb.co/zGhdkV0/icons8-nepal-96.p
 
 Right now I am learning and building web applications using ReactJS and NextJS.
 
-Reach out to me on <a href="https://www.linkedin.com/in/zeetaen1878/"><img src="https://pics.freeicons.io/uploads/icons/png/16090541531530099327-512.png" width=16></a> or send me an email through <a href="mailto:zeetaen.gurung@gmail.com"><img src="https://pics.freeicons.io/uploads/icons/png/11377518691557997002-512.png" width=16>
-
 # Tools and Technologies
 
 <p align="left">

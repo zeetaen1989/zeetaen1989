@@ -5,6 +5,8 @@ A Front-End aficionado from <img src="https://i.ibb.co/zGhdkV0/icons8-nepal-96.p
 
 Right now I am learning and building web applications using ReactJS and NextJS.
 
+<a href="https://app.daily.dev/zeetaen"><img src="https://api.daily.dev/devcards/195471802e354a579d431a49c22a66e8.png?r=8ha" width="400" alt="Jiten Gurung's Dev Card"/></a>
+
 # Tools and Technologies
 
 <p align="left">
